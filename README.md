@@ -1,4 +1,4 @@
-# Serum SWAP UI + cntry.io DEX
+# Serum SWAP UI + CNTRY.io DEX
 
 An implementation of a SWAP UI for the Serum DEX and CNTRY.io DEX v0.01 based on Bonfida UI.
 
